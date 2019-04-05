@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027668697529",
+    "firebase_url": "https://rebu-32a06.firebaseio.com",
+    "project_id": "rebu-32a06",
+    "storage_bucket": "rebu-32a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027668697529:android:4222c2e9ec235cbe",
+        "android_client_info": {
+          "package_name": "com.example.nuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027668697529-sk3dvbn7pdtpu5htcbnro8qtt20n4f21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuber",
+            "certificate_hash": "3ba35d1a60179d84f041d9cf55e270c005569975"
+          }
+        },
+        {
+          "client_id": "1027668697529-nfkv43kj61v6esa76t0r5ljnf5r3fidu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO61QFS_iM8pNtwQ5uD-hLMREn278jvJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027668697529-nfkv43kj61v6esa76t0r5ljnf5r3fidu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
